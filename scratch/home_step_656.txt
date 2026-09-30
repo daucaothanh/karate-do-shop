@@ -1,0 +1,109 @@
+Created At: 2026-08-27T03:06:31+07:00
+Completed At: 2026-08-27T03:06:31+07:00
+File Path: `file:///d:/karate_do/resources/views/clients/pages/home.blade.php`
+Total Lines: 651
+Total Bytes: 38890
+Showing lines 240 to 340
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+240:             data-bg="img/bg/11.jpg">
+241:             <div class="container">
+242:                 <div class="row">
+243:                     <div class="col-lg-12">
+244:                         <div class="section-title-area ltn__section-title-2 text-center">
+245:                             <h1 class="section-title white-color">Danh Mục</h1>
+246:                         </div>
+247:                     </div>
+248:                 </div>              
+249:             </div>
+250:         </div>
+251:         <!-- CATEGORY AREA END -->
+252: 
+253:         <!-- PRODUCT TAB AREA START (product-item-3) -->
+254:         <div class="ltn__product-tab-area ltn__product-gutter pt-115 pb-70">
+255:             <div class="container">
+256:                 <div class="row">
+257:                     <div class="col-lg-12">
+258:                         <div class="section-title-area ltn__section-title-2 text-center">
+259:                             <h1 class="section-title">Sản Phẩm</h1>
+260:                         </div>
+261:                         <div class="ltn__tab-menu ltn__tab-menu-2 ltn__tab-menu-top-right-- text-uppercase text-center">
+262:                             <div class="nav">
+263:                                 <a class="active show" data-bs-toggle="tab" href="#liton_tab_3_1">Quần Áo</a>
+264:                                 <a data-bs-toggle="tab" href="#liton_tab_3_2" class="">Găng Tay</a>
+265:                                 <a data-bs-toggle="tab" href="#liton_tab_3_3" class="">Ống Khuyển & Mu Chân</a>
+266:                                 <a data-bs-toggle="tab" href="#liton_tab_3_4" class="">Đai</a>
+267:                                 <a data-bs-toggle="tab" href="#liton_tab_3_5" class="">Bảo Vệ Răng</a>
+268:                                 <a data-bs-toggle="tab" href="#liton_tab_3_6" class="">Ky</a>
+269:                                 <a data-bs-toggle="tab" href="#liton_tab_3_7" class="">Mũ Bảo Hộ</a>
+270:                                 <a data-bs-toggle="tab" href="#liton_tab_3_8" class="">Bao Cát</a>
+271:                                 <a data-bs-toggle="tab" href="#liton_tab_3_9" class="">Côn Nhị Khúc</a>
+272:                                 <a data-bs-toggle="tab" href="#liton_tab_3_10" class="">Đích Đá</a>
+273:                                 <a data-bs-toggle="tab" href="#liton_tab_3_11" class="">Khiên Đỡ Đá</a>
+274:                             </div>
+275:                         </div>
+276:                         <div class="tab-content">
+277:                                                     
+278:                         </div>
+279:                     </div>
+280:                 </div>
+281:             </div>
+282:         </div>
+283:         <!-- PRODUCT TAB AREA END -->
+284: 
+285:         <!-- COUNTER UP AREA START -->
+286:         <div class="ltn__counterup-area bg-image bg-overlay-theme-black-80 pt-115 pb-70" data-bg="img/bg/5.jpg">
+287:             <div class="container">
+288:                 <div class="row">
+289:                     <div class="col-md-3 col-sm-6 align-self-center">
+290:                         <div class="ltn__counterup-item-3 text-color-white text-center">
+291:                             <div class="counter-icon"> <img src="img/icons/icon-img/2.jpg" alt="#"> </div>
+292:                             <h1><span class="counter">733</span><span class="counterUp-icon">+</span> </h1>
+293:                             <h6>Khách hàng đã phục vụ</h6>
+294:                         </div>
+295:                     </div>
+296:                     <div class="col-md-3 col-sm-6 align-self-center">
+297:                         <div class="ltn__counterup-item-3 text-color-white text-center">
+298:                             <div class="counter-icon"> <img src="img/icons/icon-img/3.jpg" alt="#"> </div>
+299:                             <h1><span class="counter">33</span><span class="counterUp-letter">K</span><span
+300:                                     class="counterUp-icon">+</span> </h1>
+301:                             <h6>Bộ võ phục đã bán</h6>
+302:                         </div>
+303:                     </div>
+304:                     <div class="col-md-3 col-sm-6 align-self-center">
+305:                         <div class="ltn__counterup-item-3 text-color-white text-center">
+306:                             <div class="counter-icon"> <img src="img/icons/icon-img/4.jpg" alt="#"> </div>
+307:                             <h1><span class="counter">100</span><span class="counterUp-icon">+</span> </h1>
+308:                             <h6>Sản phẩm Karate-Do</h6>
+309:                         </div>
+310:                     </div>
+311:                     <div class="col-md-3 col-sm-6 align-self-center">
+312:                         <div class="ltn__counterup-item-3 text-color-white text-center">
+313:                             <div class="counter-icon"> <img src="img/icons/icon-img/5.jpg" alt="#"> </div>
+314:                             <h1><span class="counter">21</span><span class="counterUp-icon">+</span> </h1>
+315:                             <h6>Tỉnh thành giao hàng</h6>
+316:                         </div>
+317:                     </div>
+318:                 </div>
+319:             </div>
+320:         </div>
+321:         <!-- COUNTER UP AREA END -->
+322: 
+323:         <!-- PRODUCT AREA START (product-item-3) -->
+324:         <div class="ltn__product-area ltn__product-gutter pt-115 pb-70">
+325:             <div class="container">
+326:                 <div class="row">
+327:                     <div class="col-lg-12">
+328:                         <div class="section-title-area ltn__section-title-2 text-center">
+329:                             <h1 class="section-title">Sản Phẩm Bán Chạy</h1>
+330:                         </div>
+331:                     </div>
+332:                 </div>
+333:                 <div class="row ltn__tab-product-slider-one-active--- slick-arrow-1">
+334:                     <!-- ltn__product-item -->                   
+335:                 </div>
+336:             </div>
+337:         </div>
+338:         <!-- PRODUCT AREA END -->
+339: 
+340:         <!-- CALL TO ACTION START (call-to-action-4) -->
+The above content does NOT show the entire file contents. If you need to view any lines of the file which were not shown to complete your task, call this tool again to view those lines.
