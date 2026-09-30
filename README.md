@@ -7,15 +7,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Database configuration
+## Database architecture
 
-The local development database name is `shopkaratedo`. Set it in the local `.env` file:
+The application stores its data in the MySQL database `shopkaratedo`. Set the database name in the local `.env` file:
 
 ```env
 DB_DATABASE=shopkaratedo
 ```
 
 Keep `.env` out of source control because it may contain database credentials.
+
+```mermaid
+flowchart LR
+	app["Karate-Do Shop Laravel application"] -->|"DB_DATABASE"| database[("MySQL: shopkaratedo")]
+```
 
 ## About Laravel
 
